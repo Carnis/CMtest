@@ -1,0 +1,23 @@
+tile.modtut.firstblock.name=First Block
+tile.modtut.simpletexturedblock.name=Simple Textured Block
+tile.modtut.multitexturedblock.name=Multi Textured Block
+tile.modtut.statetexturedblock.name=State Textured Block
+tile.modtut.modelblock.name=Model Block
+tile.modtut.bakedmodelblock.name=Baked Model Block
+tile.modtut.datablock.name=Data Block
+tile.modtut.blinkingblock.name=Blinking Block
+tile.modtut.blinkingblock_lit.name=Blinking Block
+tile.modtut.pedestalblock.name=Pedestal Block
+tile.modtut.testcontainerblock.name=Test Container Block
+
+item.modtut.firstitem.name=First Item
+item.modtut.simpletextureditem.name=Simple Textured Item
+item.modtut.multimodelitem.name=Multi Model Item
+
+message.modtut.counter=Counter:
+message.modtut.counter_par=Counter: %d
+
+entity.modtut.WeirdZombie.name=Weird Zombie
+
+key.categories.modtut=Mod Tutorials
+key.tutorial=Tutorial Key
